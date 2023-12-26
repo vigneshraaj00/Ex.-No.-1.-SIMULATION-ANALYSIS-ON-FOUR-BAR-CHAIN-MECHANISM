@@ -53,10 +53,9 @@
 
 
 ## Output:
-![Screenshot 2023-12-26 091048](https://github.com/vignesh-2006/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/145742508/7b578b8b-a13d-49dc-a04f-ffbb5c31bccc)
+[![Screenshot 2023-12-26 091048](https://github.com/vignesh-2006/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/145742508/7b578b8b-a13d-49dc-a04f-ffbb5c31bccc)
 ![Screenshot 2023-12-26 090933](https://github.com/vignesh-2006/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/145742508/c4ce6828-4590-466f-b6a5-6161da51bc4d)
 ![WhatsApp Image 2023-12-26 at 09 17 24_928e6fa5](https://github.com/vignesh-2006/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/145742508/4b98ff59-6ee5-4a94-9d86-a2db02080321)
-
 
 ### Name:vignesh raaj s
 ### Register Number: 21223230239
